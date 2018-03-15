@@ -1,4 +1,4 @@
-# MyVendor.MyProject
+# test.test
 
 ## Installation
 
