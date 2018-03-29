@@ -25,3 +25,6 @@ testing BEAR.sunday flame work
     composer cs-fix     // lint fix
     vendor/bin/phptest  // test + cs
     vendor/bin/phpbuild // phptest + doc + qa
+
+
+# test
